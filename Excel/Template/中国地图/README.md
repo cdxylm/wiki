@@ -20,3 +20,6 @@ VBA代码：
 
 ### 功能
     - [x] 基本功能
+
+### 效果图
+![image](https://github.com/cdxylm/wiki/blob/master/Excel/Template/%E4%B8%AD%E5%9B%BD%E5%9C%B0%E5%9B%BE/Screenshot.jpg)
